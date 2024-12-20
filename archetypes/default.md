@@ -23,6 +23,9 @@ images:
 #         vendor: bs
 #         name: book
 #         color: '#e24d0e'
+authors:
+  - dummy
 ---
 
-Content.
+{{< youtube zyvhVoAHX3M>}}
+

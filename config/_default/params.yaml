@@ -1,15 +1,15 @@
-description: The cards theme template of HB (Hugo Bootstrap) Framework.
+description: Browse our ultrasound library offered to you by ULTRASOUNDCASES.
 
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   full_width: false # when true, the layout takes full width globally.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
-    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    # brand: HB # the brand name, leave it empty to use site's title.
+    # logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
+      # github: hbstack
       # twitter: razonyang
       rss: true
       mastodon: https://techhub.social/@hbstack
@@ -17,12 +17,12 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      # github: hbstack
+      # twitter: razonyang
       rss: true
-      mastodon: https://techhub.social/@hbstack
+      # mastodon: https://techhub.social/@hbstack
   blog:
-    list_cols_md: 2
+    list_cols_md: 3
     list_cols_lg: 3
     toc:
       position: end
@@ -32,7 +32,7 @@ hb:
         - twitter
         - facebook
         - linkedin
-        - sinaweibo
+        # - sinaweibo
     sidebar:
       sticky: true # set it to false to not stick the sidebar.
       width: .35 # the width of sidebar.
@@ -44,8 +44,8 @@ hb:
         company: COMPANY
         location: Earth
         socials:
-          github: hbstack
-          mastodon: https://techhub.social/@hbstack
+          # github: hbstack
+          # mastodon: https://techhub.social/@hbstack
           rss: true
       posts:
         recent_count: 5 # the number of recent posts.
@@ -74,7 +74,7 @@ hb:
           limit: 20
           # title: Popular Tags # override the title.
     paginate: 12 # paginate.
-    post_thumbnail_placeholder: HB THEME # the text of thumbnail placeholder, default to site title.
+    post_thumbnail_placeholder: USC # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
@@ -86,14 +86,14 @@ hb:
         - blog
         - news
     giscus:
-      repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo: ultrasoundcases/ultrasoundcases.github.io
+      repo_id: R_kgDONfrXog
+      category_id: DIC_kwDONfrXos4ClW7Z
   docs:
     giscus:
-      repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo: ultrasoundcases/ultrasoundcases.github.io
+      repo_id: R_kgDONfrXog
+      category_id: DIC_kwDONfrXos4ClW7Z
     social_share_buttons:
       alignment: center
       media:
@@ -103,9 +103,9 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme-cards
+      repo: ultrasoundcases/ultrasoundcases.github.io
       branch: main
-      subpath: exampleSite
+      subpath: 
   # gallery:
   #   thumbnail_size: "x640"
   # google_fonts:
@@ -122,7 +122,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    short_name: 'USC'
 
 # see https://hugomods.com/search/configurations/.
 search:

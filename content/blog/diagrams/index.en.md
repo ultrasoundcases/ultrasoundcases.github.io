@@ -1,7 +1,7 @@
 ---
 title: "Diagrams and Charts"
 date: 2023-11-26T16:36:24+08:00
-draft: false
+draft: true
 description: "This article offers some examples about using Mermaid for diagramming and charting."
 noindex: false
 featured: true
@@ -18,8 +18,8 @@ tags:
 images:
   - https://example-images.razonyang.com/flowchart.webp?width=1920&height=1280
 authors:
-  - HB
-  - HugoMods
+#   - HB
+#   - HugoMods
 ---
 
 ## Using Mermaid Code Block

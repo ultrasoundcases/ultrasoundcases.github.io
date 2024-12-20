@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Notess
 type: docs
 description: Yet another digital garden that using docs layout.
 menu:
