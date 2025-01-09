@@ -1,20 +1,20 @@
 ---
-title: "Tenosynovitis"
-date: 2024-12-23T15:44:53+09:00
+title: "Achilles Tendon"
+date: 2025-01-09T14:34:15+09:00
 draft: false
-description: "Tenosynovitis"
+description: "Achilles Tendon"
 noindex: false
-featured: true
+featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+ - ankle
 categories:
-#  - 
+ - hr
 tags:
-#  - 
+ - achilles
 images:
- - dq.png
+#  - 
 # menu:
 #   main:
 #     weight: 100
@@ -27,5 +27,5 @@ authors:
   - you
 ---
 
-{{< youtube ZF9sicujNNw>}}
+{{< youtube pirr0AuE-Bk>}}
 

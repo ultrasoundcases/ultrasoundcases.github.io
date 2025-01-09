@@ -1,20 +1,20 @@
 ---
-title: "Tenosynovitis"
-date: 2024-12-23T15:44:53+09:00
+title: "Quadratus Lumborum"
+date: 2025-01-09T14:34:37+09:00
 draft: false
-description: "Tenosynovitis"
+description: "Quadratus Lumborum"
 noindex: false
-featured: true
+featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+ - lower back
 categories:
-#  - 
+ - hr
 tags:
 #  - 
 images:
- - dq.png
+  - ql.png
 # menu:
 #   main:
 #     weight: 100
@@ -27,5 +27,5 @@ authors:
   - you
 ---
 
-{{< youtube ZF9sicujNNw>}}
+{{< youtube 64AvQ5QoUjY>}}
 

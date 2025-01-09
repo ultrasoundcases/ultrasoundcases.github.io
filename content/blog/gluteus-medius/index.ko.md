@@ -1,10 +1,10 @@
 ---
 title: "Gluteus Medius"
 date: 2024-12-23T15:47:26+09:00
-draft: true
+draft: false
 description: "Gluteus Medius"
 noindex: false
-featured: false
+featured: true
 pinned: false
 # comments: false
 series:
@@ -24,7 +24,7 @@ images:
 #         name: book
 #         color: '#e24d0e'
 authors:
-  - dummy
+  - you
 ---
 
 {{< youtube aGE6Kdrh7KY>}}

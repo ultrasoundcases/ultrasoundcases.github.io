@@ -1,20 +1,20 @@
 ---
-title: "Tenosynovitis"
-date: 2024-12-23T15:44:53+09:00
+title: "Shoulder Joint"
+date: 2025-01-09T14:35:58+09:00
 draft: false
-description: "Tenosynovitis"
+description: "Shoulder Joint"
 noindex: false
-featured: true
+featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+ - shoulder
 categories:
-#  - 
+ - hr
 tags:
 #  - 
 images:
- - dq.png
+  - sj.png
 # menu:
 #   main:
 #     weight: 100
@@ -27,5 +27,5 @@ authors:
   - you
 ---
 
-{{< youtube ZF9sicujNNw>}}
+{{< youtube HyyMhz_KBZ8>}}
 

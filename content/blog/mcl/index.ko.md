@@ -1,20 +1,20 @@
 ---
-title: "Tenosynovitis"
-date: 2024-12-23T15:44:53+09:00
+title: "Mcl"
+date: 2025-01-09T14:35:06+09:00
 draft: false
-description: "Tenosynovitis"
+description: "Mcl"
 noindex: false
-featured: true
+featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+ - knee
 categories:
-#  - 
+ - hr
 tags:
 #  - 
 images:
- - dq.png
+  - mcl.png
 # menu:
 #   main:
 #     weight: 100
@@ -27,5 +27,5 @@ authors:
   - you
 ---
 
-{{< youtube ZF9sicujNNw>}}
+{{< youtube 0Rsjcf6VOY>}}
 

@@ -1,20 +1,20 @@
 ---
-title: "Tenosynovitis"
-date: 2024-12-23T15:44:53+09:00
+title: "Peroneal Tendon"
+date: 2025-01-09T14:36:45+09:00
 draft: false
-description: "Tenosynovitis"
+description: "Peroneal Tendon"
 noindex: false
-featured: true
+featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+ - ankle
 categories:
-#  - 
+ - hr
 tags:
 #  - 
 images:
- - dq.png
+  - pt.png
 # menu:
 #   main:
 #     weight: 100
@@ -27,5 +27,5 @@ authors:
   - you
 ---
 
-{{< youtube ZF9sicujNNw>}}
+{{< youtube 4zwnwDmOshQ>}}
 

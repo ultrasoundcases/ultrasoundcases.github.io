@@ -1,20 +1,20 @@
 ---
-title: "Tenosynovitis"
-date: 2024-12-23T15:44:53+09:00
+title: "Infrapatella Branch of Sap Nerve"
+date: 2025-01-09T14:36:22+09:00
 draft: false
-description: "Tenosynovitis"
+description: "Infrapatella Branch of Sap Nerve"
 noindex: false
-featured: true
+featured: false
 pinned: false
 # comments: false
 series:
-#  - 
+ - knee
 categories:
-#  - 
+ - hr
 tags:
 #  - 
 images:
- - dq.png
+  - sap.png
 # menu:
 #   main:
 #     weight: 100
@@ -27,5 +27,5 @@ authors:
   - you
 ---
 
-{{< youtube ZF9sicujNNw>}}
+{{< youtube l5D69SR_97M>}}
 
